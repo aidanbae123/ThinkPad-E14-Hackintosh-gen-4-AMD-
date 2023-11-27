@@ -7,6 +7,8 @@ This is a mostly functioning EFI for the ThinkPad E14 gen 4 (AMD version).
 DISCLAIMER: This is a work in progress, so I am not responsible for any damage that may occur to your computer. Use at your own risk.
 Also, it is generally recommended to build your own EFI, so use only as a last resort or as a guide.
 
+Also, the resources folder is NOT included in the OC folder.
+
 *** Do NOT include the Tools folder in your EFI folder. ***
 
 ## My Specs:
